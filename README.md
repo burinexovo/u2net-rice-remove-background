@@ -1,4 +1,4 @@
-# u2net-rice-remove-background
+# 稻穗影像去背模型
 
 ## 介绍
 
